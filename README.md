@@ -1,5 +1,13 @@
 # 🔐 react-native-otp-input-box
 
+# 🔐 react-native-otp-input-box
+
+[![npm version](https://img.shields.io/npm/v/react-native-otp-input-box.svg)](https://www.npmjs.com/package/react-native-otp-input-box)
+[![license](https://img.shields.io/npm/l/react-native-otp-input-box.svg)](https://github.com/eng-naveed/react-native-otp-input-box/blob/main/LICENSE)
+[![issues](https://img.shields.io/github/issues/eng-naveed/react-native-otp-input-box.svg)](https://github.com/eng-naveed/react-native-otp-input-box/issues)
+[![stars](https://img.shields.io/github/stars/eng-naveed/react-native-otp-input-box.svg)](https://github.com/eng-naveed/react-native-otp-input-box/stargazers)
+
+
 [![npm version](https://img.shields.io/npm/v/react-native-otp-input-box.svg)](https://www.npmjs.com/package/react-native-otp-input-box)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
