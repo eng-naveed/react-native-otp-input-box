@@ -111,14 +111,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to [open an issue](https://github.com/eng-naveed/react-native-otp-input-box/issues) or submit a pull request.
-
-"keywords": [
-  "react-native-otp",
-  "otp-input",
-  "sms-verification",
-  "authentication",
-  "react-native-component",
-  "typescript"
-]
-
-
