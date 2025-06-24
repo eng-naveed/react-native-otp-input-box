@@ -9,7 +9,10 @@ A simple, customizable, and powerful **OTP (One-Time Password)** input component
 
 Whether you’re implementing mobile number verification, secure logins, or any OTP-based flow, this component gives you full control over the UI and behavior of OTP fields.
 
----
+## 📸 Demo
+
+<img src="./Demo/demo.gif" alt="Demo" width="300" height="580" />
+
 
 ## 📦 Installation
 
@@ -24,12 +27,6 @@ OR
 ```bash
 yarn add react-native-otp-input-box
 ```
----
-
-## 📸 Demo
-
-<img src="./Demo/demo.gif" alt="Demo" width="300" height="580" />
-
 ---
 
 ## 📚 Table of Contents
