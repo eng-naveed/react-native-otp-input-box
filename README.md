@@ -19,7 +19,7 @@ Install the package using npm or yarn:
 npm install react-native-otp-input-box
 ```
 
-###OR
+OR
 
 ```bash
 yarn add react-native-otp-input-box
