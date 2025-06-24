@@ -111,3 +111,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to [open an issue](https://github.com/eng-naveed/react-native-otp-input-box/issues) or submit a pull request.
+
+---
+
+## 🏷 Tags
+
+`react-native-otp` &nbsp; `otp-input` &nbsp; `otp` &nbsp; `sms-verification` &nbsp; `authentication` &nbsp; `react-native-component` &nbsp; `typescript`
+
+<!-- 
+TAGS: 
+react-native-otp, react-native-otp-input-box, react-native otp, react native otp input, react native input box, otp input, sms verification, react native sms input, react native components, react native ui, mobile authentication, mobile otp, one time password input, otp input react native, otp textbox, 6 digit otp input, typescript react native component, react native typescript ui, custom otp input react native, lightweight otp input, react-native-component, react native auth component, mobile verification input, react-native-login, otp-field, otp entry react native, 4 digit otp react native, 6 digit otp react native, otp focus input, react-native-otp-view, react native secure input
+-->
+
