@@ -11,6 +11,23 @@ Whether you’re implementing mobile number verification, secure logins, or any 
 
 ---
 
+## 📦 Installation
+
+Install the package using npm or yarn:
+
+```bash
+npm install react-native-otp-input-box
+# or
+yarn add react-native-otp-input-box
+```
+---
+
+## 📸 Demo
+
+<img src="./Demo/demo.gif" alt="Demo" width="300" height="580" />
+
+---
+
 ## 📚 Table of Contents
 
 - [Installation](#installation)
@@ -21,24 +38,6 @@ Whether you’re implementing mobile number verification, secure logins, or any 
 - [Author](#author)
 - [License](#license)
 - [Contributing](#contributing)
-
----
-
-## 📦 Installation
-
-Install the package using npm or yarn:
-
-```bash
-npm install react-native-otp-input-box
-# or
-yarn add react-native-otp-input-box
-```
-
----
-
-## 📸 Demo
-
-<img src="./Demo/demo.gif" alt="Demo" width="300" height="580" />
 
 ---
 
