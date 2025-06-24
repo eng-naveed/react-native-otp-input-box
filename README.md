@@ -31,14 +31,14 @@ yarn add react-native-otp-input-box
 
 ## 📚 Table of Contents
 
-- [Installation](#installation)
-- [Demo](#demo)
-- [Features](#features)
-- [Usage](#usage)
-- [Props](#props)
-- [Author](#author)
-- [License](#license)
-- [Contributing](#contributing)
+- [Installation](#-installation)
+- [Demo](#-demo)
+- [Features](#-features)
+- [Usage](#-usage)
+- [Props](#-props)
+- [Author](#-author)
+- [License](#-license)
+- [Contributing](#-contributing)
 
 ---
 
