@@ -1,4 +1,3 @@
-````markdown
 # 🔐 react-native-otp-box-input
 
 [![npm version](https://img.shields.io/npm/v/react-native-otp-input-box.svg)](https://www.npmjs.com/package/react-native-otp-input-box)
@@ -19,9 +18,12 @@ Whether you’re implementing mobile number verification, secure logins, or any 
 Install the package using npm or yarn:
 
 ```bash
-npm install react-native-otp-box-input
-# or
 yarn add react-native-otp-box-input
+```
+OR
+
+```bash
+npm install react-native-otp-box-input
 ```
 
 ---
@@ -119,16 +121,3 @@ Feel free to [open an issue](https://github.com/eng-naveed/react-native-otp-inpu
 TAGS:
 react-native-otp, react-native-otp-input-box, react-native otp, react native otp input, react native input box, otp input, sms verification, react native sms input, react native components, react native ui, mobile authentication, mobile otp, one time password input, otp input react native, otp textbox, 6 digit otp input, typescript react native component, react native typescript ui, custom otp input react native, lightweight otp input, react-native-component, react native auth component, mobile verification input, react-native-login, otp-field, otp entry react native, 4 digit otp react native, 6 digit otp react native, otp focus input, react-native-otp-view, react native secure input
 -->
-
-<!--
-<!-- ### ✅ What You Can Still Add (Optional Enhancements):
-
-- **NPM badge**, GitHub stars, license badge (via [shields.io](https://shields.io/))
-- **Link to a Snack/Expo demo** if it's a React Native component
-- **Table of contents** for longer readmes
-- **Advanced examples** (e.g. with custom styles or keyboard behavior) --> -->
-
-```
-
-```
-````
