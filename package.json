@@ -1,7 +1,7 @@
 {
-  "name": "react-native-otp-input-box",
+  "name": "react-native-otp-box-input",
   "version": "0.1.0",
-  "description": "It allows you to easily integrate OTP input fields into your application with a clean, user-friendly interface",
+  "description": "A customizable and lightweight OTP input component for React Native apps with full TypeScript support and clean UI.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
@@ -41,9 +41,14 @@
     "release": "release-it --only-version"
   },
   "keywords": [
+    "react-native-otp",
+    "otp-input",
+    "otp",
+    "sms-verification",
+    "authentication",
     "react-native",
-    "ios",
-    "android"
+    "react-native-component",
+    "typescript"
   ],
   "repository": {
     "type": "git",
@@ -78,7 +83,7 @@
     "prettier": "^3.0.3",
     "react": "19.0.0",
     "react-native": "0.79.4",
-    "react-native-builder-bob": "^0.40.8",
+    "react-native-builder-bob": "^0.18.0",
     "release-it": "^17.10.0",
     "typescript": "^5.8.3"
   },
