@@ -1,13 +1,3 @@
-Your current README is already well-structured and informative, but it can be improved for clarity, professionalism, and discoverability. Here’s an improved version that:
-
-- Fixes markdown syntax (removes extra backticks).
-- Adds badges for npm and license.
-- Improves the introduction and usage instructions.
-- Clarifies contribution guidelines.
-- Adds a table of contents for easier navigation.
-
----
-
 # 🔐 react-native-otp-input-box
 
 [![npm version](https://img.shields.io/npm/v/react-native-otp-input-box.svg)](https://www.npmjs.com/package/react-native-otp-input-box)
@@ -120,6 +110,3 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions, issues, and feature requests are welcome!  
 Feel free to [open an issue](https://github.com/eng-naveed/react-native-otp-input-box/issues) or submit a pull request.
 
----
-
-If you want this in markdown for direct copy-paste or would like help integrating more information (like advanced usage, FAQ, or troubleshooting), just let me know!
