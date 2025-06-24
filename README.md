@@ -36,7 +36,7 @@ yarn add react-native-otp-input-box
 
 ## 📸 Demo
 
-![Demo](./Demo/demo.gif)
+<img src="./Demo/demo.gif" alt="Demo" width="320" height="180" />
 
 ---
 
