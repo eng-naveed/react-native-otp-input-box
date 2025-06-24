@@ -36,7 +36,7 @@ yarn add react-native-otp-input-box
 
 ## 📸 Demo
 
-![Demo](./assets/demo.gif)
+![Demo](./Demo/demo.gif)
 
 ---
 
